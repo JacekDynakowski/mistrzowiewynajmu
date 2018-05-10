@@ -1,2 +1,0 @@
-# mistrzowiewynajmu
-Mistrzowie Wynajmu
