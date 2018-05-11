@@ -12662,23 +12662,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jacek\\.nuget\\packages\\": {},
+    "C:\\Users\\dynak\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\ONEDRIVE\\Desktop\\Repo\\mistrzowiewynajmu\\MistrzowieWynajmu\\MistrzowieWynajmu.csproj",
+      "projectUniqueName": "G:\\OneDrive\\Desktop\\Repozytorium\\mistrzowiewynajmu\\MistrzowieWynajmu\\MistrzowieWynajmu.csproj",
       "projectName": "MistrzowieWynajmu",
-      "projectPath": "G:\\ONEDRIVE\\Desktop\\Repo\\mistrzowiewynajmu\\MistrzowieWynajmu\\MistrzowieWynajmu.csproj",
-      "packagesPath": "C:\\Users\\Jacek\\.nuget\\packages\\",
-      "outputPath": "G:\\ONEDRIVE\\Desktop\\Repo\\mistrzowiewynajmu\\MistrzowieWynajmu\\obj\\",
+      "projectPath": "G:\\OneDrive\\Desktop\\Repozytorium\\mistrzowiewynajmu\\MistrzowieWynajmu\\MistrzowieWynajmu.csproj",
+      "packagesPath": "C:\\Users\\dynak\\.nuget\\packages\\",
+      "outputPath": "G:\\OneDrive\\Desktop\\Repozytorium\\mistrzowiewynajmu\\MistrzowieWynajmu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jacek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dynak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

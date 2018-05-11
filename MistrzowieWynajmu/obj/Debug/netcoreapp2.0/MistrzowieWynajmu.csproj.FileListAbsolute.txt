@@ -20,3 +20,9 @@ G:\ONEDRIVE\Desktop\Repo\mistrzowiewynajmu\MistrzowieWynajmu\obj\Debug\netcoreap
 G:\ONEDRIVE\Desktop\Repo\mistrzowiewynajmu\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.AssemblyInfo.cs
 G:\ONEDRIVE\Desktop\Repo\mistrzowiewynajmu\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.dll
 G:\ONEDRIVE\Desktop\Repo\mistrzowiewynajmu\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.pdb
+G:\OneDrive\Desktop\Repozytorium\mistrzowiewynajmu\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.csprojAssemblyReference.cache
+G:\OneDrive\Desktop\Repozytorium\mistrzowiewynajmu\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.csproj.CoreCompileInputs.cache
+G:\OneDrive\Desktop\Repozytorium\mistrzowiewynajmu\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.AssemblyInfoInputs.cache
+G:\OneDrive\Desktop\Repozytorium\mistrzowiewynajmu\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.AssemblyInfo.cs
+G:\OneDrive\Desktop\Repozytorium\mistrzowiewynajmu\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.dll
+G:\OneDrive\Desktop\Repozytorium\mistrzowiewynajmu\MistrzowieWynajmu\obj\Debug\netcoreapp2.0\MistrzowieWynajmu.pdb
